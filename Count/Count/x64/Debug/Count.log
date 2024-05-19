@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Liu\source\repos\Count\Count\源.cpp(60,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Liu\source\repos\Count\Count\源.cpp(35,27): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Count.vcxproj -> C:\Users\Liu\source\repos\Count\x64\Debug\Count.exe
